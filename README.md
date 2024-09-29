@@ -19,7 +19,7 @@ The reliability, \(R(t)\), is defined as the probability that a component will p
 \[ R(t)=e^(-λt) \]
 
 Where:
-- \( \ λ \) is the failure rate (hazard function).
+- \(  λ \) is the failure rate (hazard function).
 - \( t \) is the operational time.
 
 In this project, we utilize the Weibull distribution to estimate the failure rates and calculate the MTTF for each component based on experimental data.
