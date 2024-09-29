@@ -16,7 +16,7 @@ The goal of this project is to evaluate the failure rates of key electronic comp
 
 The reliability, \(R(t)\), is defined as the probability that a component will perform its intended function without failure over a specified period. Mathematically, this is expressed as:
 
-\[ R(t) = e^{-\lambda t} \]
+\[ R(t)=e^(-λt) \]
 
 Where:
 - \( \lambda \) is the failure rate (hazard function).
